@@ -4,4 +4,4 @@ def check_guess(secret, guess):
     elif guess > secret:
         return "Terlalu besar"
     else:
-        return "Benar!"
+        return "Benar"
