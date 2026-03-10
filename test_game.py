@@ -8,4 +8,4 @@ def test_guess_too_big():
 
 def test_guess_correct():
     
-    assert check_guess(10, 10) == "Benar!"
+    assert check_guess(10, 10) == "Benar"
